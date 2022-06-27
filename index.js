@@ -1,2 +1,4 @@
 //Your Code here
-window.prompt('Travel left or right?')
+
+let usrAction = window.prompt('Travel left or right?');
+console.log(usrAction);
